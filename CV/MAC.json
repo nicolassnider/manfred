@@ -1,0 +1,57 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Nicolas",
+      "surnames": "Snider",
+      "title": "Ingeniero en Informática, Desarrollador",
+      "description": "Trabajo desde los 18, en los últimos 6 años trabajé en desarrollo de .NET",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "UADE"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador SR",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones y mantenimiento de código legacy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "openToOffers"
+  }
+}
