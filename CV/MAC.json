@@ -11,6 +11,7 @@
       "title": "Ingeniero en Informática, Desarrollador",
       "description": "Trabajo desde los 18, en los últimos 6 años trabajé en desarrollo de .NET",
       "location": {
+        "country": "Argentina",
         "notes": "Autocompleted using Google Maps API"
       }
     }
